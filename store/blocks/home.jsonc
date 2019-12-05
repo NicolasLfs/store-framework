@@ -11,7 +11,7 @@
       "textPosition": "RIGHT"
     }
   },
-  "info-card#button-left": {
+  "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
       "textPosition": "right",
@@ -24,10 +24,11 @@
       "textAlignment": "center"
     }
   },
-
-  "info-card#button-right": {
+  "info-card#button-left": {
     "props": {
+      "isFullModeStyle": false,
       "headline": "Shining chrome",
+      "callToActionMode": "link",
       "callToActionUrl": "/sale/d",
       "callToActionText": "Go To Collection",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
