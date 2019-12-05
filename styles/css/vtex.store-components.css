@@ -30,7 +30,7 @@
   background-color: #e1e1e1
 }
 
-.info-cardContainer, .info-cardImageUrl {
+.info-cardContainer, .info-cardImageContainer {
   max-width: 1260px;
   margin: 0 auto;
   padding: 0;
